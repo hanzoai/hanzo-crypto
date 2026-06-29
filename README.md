@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="hanzo-crypto" width="880"></p>
+
 # Hanzo Crypto
 
 Modern post-quantum cryptography library with NIST-standardized algorithms, optimized for ARM compatibility including Apple Silicon (M1/M2/M3).
