@@ -89,4 +89,6 @@ cargo bench
 
 ## License
 
-MIT OR Apache-2.0
+`MIT OR Apache-2.0` at your option — see [LICENSE](./LICENSE),
+[LICENSE-MIT](./LICENSE-MIT), [LICENSE-APACHE](./LICENSE-APACHE).
+Estate-wide licensing standard: HIP-0137 (`hanzoai/hips`).
