@@ -2,6 +2,8 @@
 
 # Hanzo Crypto
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/hanzo-crypto&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/hanzo-crypto&ref=main&action=edit)
+
 Modern post-quantum cryptography library with NIST-standardized algorithms, optimized for ARM compatibility including Apple Silicon (M1/M2/M3).
 
 ## Features
